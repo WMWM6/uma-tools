@@ -3,6 +3,7 @@ An umalator fork
 (this is a fork of a fork of another fork, so don't expect too much)
 if you are in gitpages use this link to access the simulator:
 [My Link](./umalator-global)
+bye
 
 Umalator is a great CM-planning tool to check where skills proc and how effective they are - but on Global it has been used and abused as a race simulator (i.e. comparing 2 umas with different pow, wit, etc or running 'stamina calculations' by brute-forcing recovery skill length gains in the skill chart).
 
